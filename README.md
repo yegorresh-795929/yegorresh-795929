@@ -1,4 +1,4 @@
-## Just a new file, as per the instruction from the tutor's channel 
+## C# 
 
 <!--
 **yegorresh-795929/yegorresh-795929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
